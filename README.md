@@ -57,25 +57,9 @@ I've built experiences for organizations like **UNICEF**, startups like **Avanti
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tabpritam&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabpritam&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabpritam&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
----
-
-## 🧭 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tabpritam&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 👁️‍🗨️ Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tabpritam&label=Profile%20Visitors&color=0e75b6&style=flat" alt="tabpritam" />
-</p>
 
 ---
 
@@ -83,7 +67,7 @@ I've built experiences for organizations like **UNICEF**, startups like **Avanti
 
 I love collaborating on impactful projects. Feel free to reach out!  
 📧 **tab.pritam@gmail.com**  
-🌐 [tabpritam.com](https://www.tabpritam.com) | 🐦 [@tabpritam](https://twitter.com/tabpritam) (if you're active)
+🌐 [tabpritam.com](https://www.tabpritam.com) 
 
 ---
 
